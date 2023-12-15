@@ -1,0 +1,8 @@
+So when it comes to py to exe, you need to ensure you open your folder which contains the file by typing cmd on file explorer.
+Also you need to install py to exe on your computer with the commands below:
+pip install pyinstaller
+pip install py2exe
+You will also need to install python from the web or microsoft store.
+If you want to verify if you have installed python execute the following in cmd:
+Python -V
+After you have followed this instructions you are ready to start converting python files into .exe (executables).
