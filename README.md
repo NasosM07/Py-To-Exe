@@ -1,1 +1,1 @@
-Enter the jpg in order to find my dedicated video for py to exe
+Enter the jpg file in order to find the link to my video for py to exe
